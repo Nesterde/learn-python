@@ -1,8 +1,8 @@
 # W tej lekcji omówimy operatory matematyczne w Pythonie.
 
 # Podstawowe operatory matematyczne:
-a = 10
-b = 5
+a = 12.5    # liczby niecałkowite muszą być podane z "." kropką.
+b = 5.5
 
 # Dodawanie
 dodawanie = a + b
